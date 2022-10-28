@@ -1,0 +1,15 @@
+/.bundle/*
+!/.bundle/config
+
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+
+/.direnv
+
+/*.gem
+result
